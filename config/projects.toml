@@ -1,0 +1,50 @@
+[[project]]
+title = "Fashion School Management System"
+category = "Web development"
+image = "./config/assets/projects/CMS.jpg"
+feature =""" Student CRUD
+•	Employee CRUD
+•	Employee Payroll
+•	School Income/Expense
+•	Export PDF, Excel
+•	Student Certificate
+•	Using Laravel
+"""
+
+[[project]]
+title = "Online Learning Management System"
+category = "Web development"
+image = "./config/assets/projects/LMS.png"
+feature= """ •	Upload Video file
+•	Payment with local mobile payment
+•	User Account Management
+•	Design front-end
+•	Using WordPress
+"""
+
+
+[[project]]
+title = "Payroll System"
+category = "Odoo ERP"
+image = "./config/assets/projects/Payroll.png"
+feature = """Understand company’s salary rules
+•	Daily Attendance depend on government calendar
+•	Internet bill depend on Meeting Hours
+•	Based on Position Process
+•	SSB, Overtime, Deposit
+•	Print PDF with signature
+"""
+url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+
+[[project]]
+title = "Employee Self Services App"
+category = "Odoo ERP"
+image = "./config/assets/projects/emp.png"
+feature = """ •	Leave request form
+•	Show my payroll and attendance
+•	Expense self-request form
+•	Show company announcements and statements
+•	Leave request approved by HR Manager
+•	Notification
+"""
+url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"

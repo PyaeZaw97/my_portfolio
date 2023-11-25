@@ -1,0 +1,14 @@
+name = "Pyae Phyo Zaw!"
+rol = "Software Developer"
+email = "pyaephyozaw101@gmail.com"
+phone = "+959402640435"
+birthday = "Feb 20, 1997"
+location = "Yangon, Myanmar"
+avatar = "./config/assets/avatars/passport_photo.jpg"
+username = "PyaeZaw97" # <-- github user name
+googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102767.35264637852!2d96.1761485879682!3d16.820670319938877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c1949e223e196b%3A0x56fbd271f8080bb4!2sYangon!5e0!3m2!1sen!2smm!4v1700762384983!5m2!1sen!2smm" 
+presentation = """
+I'm Creative Software Engineer from Yangon, Myanmar, working in web development and ERP Solutions. I enjoy turning complex problems into simple and find out creative solutions.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I deploy any projects on cloud hostings such as AWS.
+"""

@@ -1,0 +1,22 @@
+############### Section config ##################
+#################################################
+title = "Tech Experience"
+enabled = true # false
+
+############### Technologies ####################
+#################################################
+# Technology I have worked with
+# name = "./.../../icon_path"
+[technologies]
+python = "./config/assets/icons/python.svg"
+flutter = "./config/assets/icons/php.svg"
+firebase = "./config/assets/icons/laravel.svg"
+git = "./config/assets/icons/git.svg"
+figma = "./config/assets/icons/figma.svg"
+pandas = "./config/assets/icons/mysql-logo.svg"
+mongodb = "./config/assets/icons/mongodb.svg"
+dart = "./config/assets/icons/AWS.png"
+html = "./config/assets/icons/html.svg"
+ai = "./config/assets/icons/ai.svg"
+jupyter = "./config/assets/icons/aws-ec2.png"
+linux = "./config/assets/icons/linux.svg"

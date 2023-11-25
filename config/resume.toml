@@ -1,0 +1,136 @@
+############## Experience config ################
+#################################################
+[[experience]]
+title = "Internship"
+company = "BEE Data Myanmar Co..Ltd"
+timeline = "Aug 2021 — Present"
+description = """Learned CRUD project with RESTful API.
+Developed POS system with Python.
+"""
+
+[[experience]]
+title = "Junior Web Developer"
+company = "RITZ Cyber Security & Services Co..Ltd"
+timeline = "July 2020 — Jan 2021"
+description = """•	Conducted UAT on Citizens Pay App of MCB Bank.
+•	Performed UAT on Wave Money Mobile Wallet.
+•	Developed and executed test cases, test scenarios, and test scripts to validate the functionality and performance.
+•	Identified and reported defects using issue tracking tools, providing detailed steps to reproduce and necessary logs/screenshots.
+•	Developed front-end using Laravel Blade templates, routes, controllers and built core features -user registration, database queries and APIs.
+•	Hands-on experience with Laravel components like Eloquent ORM, middleware, caching and queues
+"""
+
+[[experience]]
+title = "Junior Officer (Odoo)"
+company = "Waaneiza Worldwide Trading Co..Ltd"
+timeline = "Aug 2021 — Present"
+description = """
+•	2 years’ experience with Odoo ERP implementation Sales. Inventory and Purchase, Manufacturing and Accounting modules.
+•	Managed access rights according to each designation of organization.
+•	Customize pivot reporting using SQL quires.
+•	Implemented Chatgpt API integration with Odoo
+
+•	Developed finical reporting projects using Qweb
+
+•	Module Migration to V15, V16
+•	Experience in setting up and deploying on cloud server (AWS EC2, Lightsail, RDS) and Operating System (Linux and Window).
+•	Worked on Odoo Projects assisting in design, configuration, and user testing.
+•	Handled module installation and troubleshooting issues and contributed to documentation and user training.
+•	Excellent proficiency in version control systems like GIT including branching and merging.
+•	Well-versed in relational database management systems such as MySQL, PostgreSQL.
+•	Strong knowledge of ISO 27001 (Information Security Management System) standards.
+"""
+
+
+
+
+############## Education config #################
+#################################################
+[[education]]
+title = "Bachelor of Technology (IT)"
+university = "Technological University (Meikhtila)"
+timeline = "2013 — 2017"
+description = """Studied Computer Introduction System, programming languages such as C++, Java, PHP, Data Structure, Database Management System, Operating System
+"""
+
+[[education]]
+title = "Bachelor of Engineering (IT)"
+university = "Technological University (Meikhtila)"
+timeline = "2017 — 2019"
+description = """•	Studied Software Engineering, Cloud Computing Network Planning and Management, Wireless and mobile communication, Project Management.
+•	In final year, we reported thesis which involved review mining system using Naive Bayes Algorithm with Python"""
+
+
+
+############## Skills config ####################
+#################################################
+[skills] 
+title = "My Skills"
+enabled = true
+show_bar = true
+show_value = true
+
+[[skill]]
+title = "Python"
+value = "50%"
+
+[[skill]]
+title = "PHP"
+value = "60%"
+
+[[skill]]
+title = "WordPress"
+value = "50%"
+
+[[skill]]
+title = "PostgreSQL"
+value = "30%"
+
+[[skill]]
+title = "MySQL"
+value = "40%"
+
+[[skill]]
+title = "Laravel"
+value = "60%"
+
+[[skill]]
+title = "Django"
+value = "40%"
+
+[[skill]]
+title = "AWS"
+value = "40%"
+
+[[skill]]
+title = "Adobe Photoshop"
+value = "50%"
+
+
+
+[[skill]]
+title = "Tailwind CSS"
+value = "70%"
+
+[[skill]]
+title = "HTML"
+value = "90%"
+
+
+
+
+
+############## Language config ##################
+#################################################
+[languages]
+title = "Languages"
+enabled = true
+
+
+[[language]]
+title = "Burmese"
+timeline = "Native"
+
+[[language]]
+title = "English"
+timeline = "Intermediate"
